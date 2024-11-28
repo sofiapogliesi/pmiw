@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&family=Jolly+Lodger&display=swap');
+
+body {
+    background-color: rgb(128, 0, 0);
+}
+
+h1, h4 {
+    font-family: Freckle Face, serif;  
+    color: rgb(128, 0, 0);
+    text-align: center;
+}
+
+div, p {
+  font-family: Jolly Lodger, serif;
+  color: rgb(190, 152, 0);
+  text-align: center;
+}
+
+a {
+  font-family: Jolly Lodger, serif;
+  color: rgb(128, 0, 0);
+  width: 200px;
+  height: 55px;
+}
+
+h3 {
+  font-family: Jolly Lodger, serif;
+  color: rgb(128, 0, 0);
+  width: 800px;
+  height: 45px; 
+}
